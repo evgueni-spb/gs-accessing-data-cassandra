@@ -17,7 +17,8 @@ public class Vet {
 	private String lastName;
 	
 	private Set<String> specialties;
-	//added this comment
+	//changed this comment
+	//added another comment
 	
 	public Vet(UUID id, String firstName, String lastName, Set<String> specialties) {
 		this.id = id;
